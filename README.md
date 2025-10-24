@@ -1,4 +1,6 @@
 # VERIFICATION OF KIRCHHOFF’S LAWS
+## NAME : WAHHAJ AHMED A
+## REF NO : 25005393
 
 **AIM:**
 
@@ -27,6 +29,11 @@
 
 
 
+
+
+![WhatsApp Image 2025-10-24 at 19 17 00_f1264760](https://github.com/user-attachments/assets/f647c15c-ff90-4154-a56e-36c8f0208511)
+![WhatsApp Image 2025-10-24 at 19 17 18_7ea7bfb2](https://github.com/user-attachments/assets/72c25d69-7ca3-4e26-ad00-a770ccdacb4f)
+![WhatsApp Image 2025-10-24 at 19 18 19_4a38fca4](https://github.com/user-attachments/assets/0efe0a30-e35b-431c-8f18-0ad7cee12a7d)
 
 
 
